@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "apple-notes": {
+      "command": "node",
+      "args": ["/Users/fatto/workspace/side-projects/apple-notes-mcp/dist/index.js"],
+      "env": {
+        "NOTES_ROOT": "/Users/fatto/Documents/notes",
+        "ENABLE_LOCAL_MD": "true",
+        "ENABLE_APPLE_NOTES": "true"
+      }
+    }
+  }
+}

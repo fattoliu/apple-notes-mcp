@@ -1,0 +1,19 @@
+{
+  "name": "apple-notes-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for saving AI-organized articles to Apple Notes",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^22.0.0"
+  }
+}
