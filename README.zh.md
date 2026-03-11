@@ -1,3 +1,5 @@
+中文 | [English](./README.md)
+
 # Apple Notes MCP
 
 一个 TypeScript MCP（Model Context Protocol）服务器，让 AI 助手（Claude 等）能够将整理好的技术文章同时保存到 **Apple Notes 备忘录**和**本地 Markdown 文件**。

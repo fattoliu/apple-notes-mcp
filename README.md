@@ -1,3 +1,5 @@
+[中文](./README.zh.md) | English
+
 # Apple Notes MCP
 
 A TypeScript MCP (Model Context Protocol) server that lets AI assistants (Claude, etc.) save well-organized technical articles to **Apple Notes** and **local Markdown files** simultaneously.
